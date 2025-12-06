@@ -34,10 +34,3 @@ This repo includes:
 - Explore rendering, audio, input, threading, and performance topics  
 - Reinforce learning through small experiments and annotations  
 
----
-
-## ▶️ Building & Running
-
-### **Compile (Linux example using g++):**
-```bash
-g++ main.cpp -o hero
