@@ -34,3 +34,6 @@ This repo includes:
 - Explore rendering, audio, input, threading, and performance topics  
 - Reinforce learning through small experiments and annotations  
 
+
+day 1: introduction
+
