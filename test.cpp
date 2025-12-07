@@ -1,6 +1,7 @@
 #include <cstdio>
 
-int main (int argc, char *argv[]) {
-  printf("hel\n");
+int main () {
+  const char foo = "hello world";
+  print(foo);
   return 0;
 }
